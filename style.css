@@ -53,6 +53,7 @@ h2 span{
     8px 8px 0 #ccc,
     9px 9px 0 #ccc,
     20px 20px 0 rgba(0, 0, 0, 0.2);
+    color: rgb(131, 206, 231);
 }
 @keyframes floating{
     0%,100%{
